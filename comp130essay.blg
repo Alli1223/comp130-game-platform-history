@@ -10,11 +10,26 @@ I was expecting a `,' or a `}'---line 63 of file game-platform-history-reference
  :   publisher={arstechnica},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
+<<<<<<< HEAD
 Warning--empty journal in parkin
+=======
+I was expecting a `,' or a `}'---line 69 of file game-platform-history-references.bib
+ :   
+ :   author={Simon Parkin},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty author in parkin
+Warning--empty journal in parkin
+Warning--empty year in parkin
+>>>>>>> origin/master
 Warning--empty journal in Orland
 Warning--empty journal in racket
 Warning--empty journal in SegaScopeTech
 Warning--empty year in SegaScopeTech
 Warning--empty journal in Workman
 Warning--empty year in Workman
+<<<<<<< HEAD
 (There were 2 error messages)
+=======
+(There were 3 error messages)
+>>>>>>> origin/master

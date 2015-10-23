@@ -1,7 +1,17 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.17)  23 OCT 2015 13:32
 entering extended mode
 **F:/comp130-game-platform-history/comp130essay.tex
 (F:/comp130-game-platform-history/comp130essay.tex
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.17)  23 OCT 2015 02:30
+entering extended mode
+**"C:/Users/Alastair/Desktop/Uni Work/comp130-game-platform-history/comp130essa
+y.tex"
+
+("C:/Users/Alastair/Desktop/Uni Work/comp130-game-platform-history/comp130essay
+.tex"
+>>>>>>> origin/master
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 68 languages loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrartcl.cls"
@@ -288,6 +298,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 23.
+<<<<<<< HEAD
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -317,6 +328,23 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
  [4] (comp130essay.bbl
+=======
+ <images/Sega-Master-System.jpg, id=15, 1156.32pt x 635.976pt>
+File: images/Sega-Master-System.jpg Graphic file (type jpg)
+
+<use images/Sega-Master-System.jpg>
+Package pdftex.def Info: images/Sega-Master-System.jpg used on input line 29.
+(pdftex.def)             Requested size: 346.89868pt x 190.79427pt.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [1
+
+
+{C:/Users/Alastair/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images
+/Sega-Master-System.jpg>] [2] [3]
+[4] (comp130essay.bbl
+>>>>>>> origin/master
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -324,6 +352,7 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 )
+<<<<<<< HEAD
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
  [5]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
@@ -333,12 +362,24 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
 Package rerunfilecheck Info: File `comp130essay.out' has not changed.
 (rerunfilecheck)             Checksum: 483CAEB6F5D182926D4B749C4E96F9CB;192.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
+=======
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 86.
+ [5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 86.
+ (comp130essay.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 86.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 86.
+Package rerunfilecheck Info: File `comp130essay.out' has not changed.
+(rerunfilecheck)             Checksum: 9B839BA1EBE24F602833D648A4D4650A;192.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 86.
+>>>>>>> origin/master
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 9 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  6494 strings out of 493698
  100593 string characters out of 3144402
  236498 words of memory out of 3000000
@@ -346,14 +387,31 @@ Here is how much of TeX's memory you used:
  6988 words of font info for 25 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  36i,6n,38p,1161b,1074s stack positions out of 5000i,500n,10000p,200000b,50000s
+=======
+ 6501 strings out of 493698
+ 100859 string characters out of 3144402
+ 235498 words of memory out of 3000000
+ 9782 multiletter control sequences out of 15000+200000
+ 6988 words of font info for 25 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 36i,6n,38p,1189b,1076s stack positions out of 5000i,500n,10000p,200000b,50000s
+>>>>>>> origin/master
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
 x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+<<<<<<< HEAD
 Output written on comp130essay.pdf (5 pages, 94596 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+Output written on comp130essay.pdf (5 pages, 251942 bytes).
+PDF statistics:
+ 85 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 30 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> origin/master
 

@@ -1,3 +1,27 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: comp130essay.aux
 The style file: ieeetr.bst
 Database file #1: game-platform-history-references.bib
+"{" immediately follows a field name---line 53 of file game-platform-history-references.bib
+ :   publisher
+ :            {PRIMAGames},
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 63 of file game-platform-history-references.bib
+ :   
+ :   publisher={arstechnica},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 69 of file game-platform-history-references.bib
+ :   
+ :   author={Simon Parkin},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty author in parkin
+Warning--empty journal in parkin
+Warning--empty year in parkin
+Warning--empty journal in Orland
+Warning--empty journal in racket
+Warning--empty journal in SegaScopeTech
+Warning--empty year in SegaScopeTech
+Warning--empty journal in Workman
+Warning--empty year in Workman
+(There were 3 error messages)

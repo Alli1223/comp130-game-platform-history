@@ -1,0 +1,58 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2015.10.22)  22 OCT 2015 20:18
+entering extended mode
+**"C:/Users/Alastair/Desktop/Uni Work/comp130-game-platform-history/game-platfo
+rm-history-references.bib"
+
+("C:/Users/Alastair/Desktop/Uni Work/comp130-game-platform-history/game-platfor
+m-history-references.bib"
+Overfull \hbox (22.73225pt too wide) in paragraph at lines 8--16
+[]\tenrm @booknovak, ti-tle=Game De-vel-op-ment Es-sen-tials: An In-tro-duc-tio
+n, au-thor=Novak, J., isbn=9781133708797,|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm b
+.\kern0.27779
+.\tenrm o
+.etc.
+
+
+Overfull \hbox (8.95444pt too wide) in paragraph at lines 17--26
+\tenrm se-ries=Games Con-sole His-tory, url=https://books.google.co.uk/books?id
+=1dK-BAAAQBAJ, year=2013, pub-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm s
+.\tenrm e
+.\discretionary
+..\tenrm -
+.\tenrm r
+.\tenrm i
+.etc.
+
+
+Overfull \hbox (52.06557pt too wide) in paragraph at lines 51--58
+\tenrm fer-ent, au-thor=Robert Work-man, pub-lish-er-PRIMAGames, year2014, url=
+http://www.primagames.com/games/killzone-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm f
+.\tenrm e
+.\tenrm r
+.\discretionary
+..\tenrm -
+.\tenrm e
+.etc.
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+)
+*
+! Emergency stop.
+<*> ...story/game-platform-history-references.bib"
+                                                  
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

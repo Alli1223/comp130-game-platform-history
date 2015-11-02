@@ -1,3 +1,23 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: comp130essay.aux
-The style file: ieeetr.bst
+The style file: ieeetran.bst
 Database file #1: game-platform-history-references.bib
+"{" immediately follows a field name---line 53 of file game-platform-history-references.bib
+ :   year
+ :       {2014},
+I'm skipping whatever remains of this entry
+Warning--entry type for "Orland" isn't style-file defined
+--line 66 of file game-platform-history-references.bib
+"{" immediately follows a field name---line 117 of file game-platform-history-references.bib
+ :   howpublished
+ :               {Web Page},
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 123 of file game-platform-history-references.bib
+ :   howpublished
+ :               {Web page PDF},
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+(There were 3 error messages)

@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}An introduction to the Sega Master System}{2}{section.1}
+\contentsline {section}{\numberline {2}The Technology behind the System}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Technical advances}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}The Peripherals}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Sega Master System vs. the Nintendo Entertainment System}{4}{subsection.2.3}
+\contentsline {section}{\numberline {3}Conclusion}{5}{section.3}

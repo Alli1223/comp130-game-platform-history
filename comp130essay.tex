@@ -3,38 +3,74 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage[none]{hyphenat}
 \usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\graphicspath{ {images/} }
 \doublespace
 
 %Please include a clear, concise, and descriptive title
-\title{A Brief Introduction to the PDP-1 and its Role Inspiring Hacker Culture}
-
-%Please do not change the subtitle
+\title{An introduction and technical overview of the Sega Master System}
 \subtitle{COMP130 - Game Platform History Essay}
-
-%Please put your student ID in the author field
-\author{MS185412}
+\author{AR185160}
 
 \begin{document}
 
 \maketitle
+%\tableofcontents{}
 
-\abstract{Please include an abstract of at most 100 words (these do not count towards your word count). For example: This short essay introduces the PDP-1 computer as a game platform and discusses how it contributed to the development of `hacker' culture in the early 1970s. It argues that the work by Hingham Instute at MIT, and in particular their development of the game \textit{SpaceWar!}, inspired a movement to creatively repurpose computers for entertainment purposes.}
+\abstract {\textbf{Abstract} \par This paper will discuss the Sega Master System game platform and will be focusing primarily on how the technical innovations that were released with the Sega Master System compared to the existing Nintendo Entertainment System. From the console hardware to the peripherals, this paper will evaluate which technologies that came with the console proved successful and which led to the failure of the console.}
 
-\section{Introduction}
 
-Write your introduction here. A brief introduction is recommended, which should outline key details of the platform, motivate the work, and provide a roadmap of key points to the reader. The motivation is quite important here, as essays should have a contribution (i.e., what is the point of the essay, and what does the reader take away from the essay) and the link between the motivation (in the introduction) and the contribution (in the conclusion) should be made clear.
+\section{An introduction to the Sega Master System}
 
-\section{Main Body}
+The Sega Master System (also known as SMS) is a game console which was released in the late 80’s. The SMS was the second iteration of the console as it was originally released in japan in 1985 as the Sega Mark III \cite{Weiss2009}, it was later redesigned and released in North America in 1986 then again in Europe in 1987. The reason for the re-design was to make the design more futuristic so it would appeal to the western audience \cite{parkin}. In 1989 Sega released the Sega Master System II, which again was completely redesigned to be a low-cost cut down version of the original.
 
-Write the main body of your essay here. Remember, there should be descriptive components \textit{as well as} analytical and evaluative components. You must not simply rephrase and represent your sources, but demonstrate analysis and evaluation through your argument. Any claims that you make should be defended through evidence and/or appropriate reasoning. Use the reccommended reading (i.e., \cite{evans2006invisible}) where appropriate. Be as concise as possible. Please see the assignment brief for additional guidence. 
+The console was designed to rival the Nintendo Entertainment System (NES), However the Master System did not sell well in comparison, especially in America and Japan. \cite{Orland} This paper will be focusing on the technology behind the Master System and how it compares with the NES.
 
-Ensure that you use an appropriate structure for your main body. You may use multiple paragraphs and/or multiple section headings. Emphasise the flow of the essay and the direction of the argument. It is more important to argue fewer points well, than have more points argued poorly.
+\section{The Technology behind the System}
+
+\subsection{Technical advances over the NES}
+
+The Sega Master System had the most impressive hardware for a console in its generation, it featured a wide range of colour capabilities as it could display up to 64 colours on the screen simultaneously compared to the NES\cite{racket}, which could only display up to 48. Furthermore each sprite could be displayed using 16 colours, whereas the NES's sprites could only use 4 colours\cite{NESsoftwaremanual}, this was a really noticeable difference in visual fidelity. This was all thanks to the Master Systems display processor which was so advanced for its time that its successor, the Mega Drive used the same graphics and sound processor chips. The SMS also used a Zilog Z80 CPU clocked at 3.58MHz\cite{SegaSoftwareManual}, which is a robust microprocessor used typically in arcade machines, which meant that the console was reliable and rarely suffered from hardware faults.\cite{russell} 
+
+The SMS came with two different types of memory card slots, the Sega Card was a small credit-card size and had only 256Kb (32KB) of storage which made them cheaper to manufacture. However most popular game developers used the standard cartridge format which could hold up to 1048Kb (131KB) of data. \cite{Weiss2009} The Master System is fully backwards compatible with the SG-1000 titles, both the card and cartridges, as well as it's controllers. \cite{racket} This difference between the two game cartridges was unique to Sega consoles and it was a clever idea so that even if you couldn't afford the more expensive cartridges, you were still able to play the smaller cheaper games. The SMS also had an innovative feature where if no game was inserted, you could play the default game that came installed on the console, the game varies on which version of the Master System you own, but this was a great feature because even if you only just have the console without any games, you were still able to use it.
+
+
+\subsection{The Peripherals}
+
+To help boost the sales of the SMS, Sega released an innovative bit of technology called the SegaScope, these were 3D glasses designed by Mark Cerny. \cite{Kent2001}  These glasses were able to plug into the SMS's Sega Card slot, and allowed users to perceive depth in a few specially modified games. However this was not the first time that 3D technology has been implemented within the video games industry\cite{Edwards}, but unlike previous 3D glasses technology, these were released globally with a lot of success. \cite{Workman}. This was partly due to the sensible design of the glasses, they were made out of a durable lightweight plastic and it was possible to wear them over prescription glasses. \cite{Kent2001}
+
+The SegaScope used shutter glass technology to give the perception of 3D, whereby each eye is obscured and a different image appears on the monitor for each eye. This is only possible with CRT monitors though, as they have a higher refresh rate than modern LCD/LED displays.\cite{Cohen}
+
+Sega also released a Light Phaser peripheral, the design is almost identical to the NES's zapper, however apparently it had slightly better targeting system and a more responsive trigger making it again, slightly superior to the NES.\cite{Weiss2009}
+
+
+\subsection{Sega Master System vs. the Nintendo Entertainment System} 
+
+The Master System is often seen as a failure because it was dwarfed by the sales of the NES, however it was still a very popular console in the PAL regions such as; Europe and Brazil \cite{Weiss2009}. Moreover it has had a steady stream of sales in Brazil and is still to this day being sold there. \cite{Kent2001}
+
+The main reason for Nintendo's huge success over the SMS was because Nintendo launched its Nintendo Entertainment System one year before the SMS and they had a strict non-compete licensing agreement with game developers. This meant that games which were released for the NES were not allowed to be released to any other console for two years.\cite{Weiss2009} So when the Sega Master System released one year later it was left out in the cold, and could not compete with the popularity of the games on the NES. Meaning that the SMS only had a total of around 330 games that were released, compared to the NES's roughly 500. \cite{russell}
+
+Another very unpopular feature was that the pause button was on the console itself, not on the controller like normal video game consoles. This meant that if you need to pause the game quickly, you have to get out of your seat and press the pause button on the console! This would be a huge inconvenience when you're in the middle of a tense game and need a quick break.\cite{Weiss2009}
+
+After all of these factors, by the end of 1987 Nintendo was controlling between 86 to 93 percent of the console market, and the sales of the NES dwarfed that of the SMS .\cite{Kent2001}
+
 
 \section{Conclusion}
 
-Write your conclusion here. The conclusion should do more than summarise the essay, making clear the contribution of the work and highlighting any limitations or outstanding questions, but should not introduce any new content or information.
 
-\bibliographystyle{ieeetr}
+Even though Sega did so many things right with the Master System, Segas downfall was that the software and games did not meet the same standard that the hardware managed to achieve. However if Sega managed to organize a deal with some popular game developers to make great games for their console, the Master System might have had a chance in beating the Nintendo Entertainment System sales.
+
+The master system is seen to be a kind of quirky console which appealed to the people who didn't want to go with the mainstream NES, and in general most people who owned a Sega Master System seemed to very happy with their choice. The SMS community seem very proud to be an owners of the console,  and even though the games that were released on the console were not as critically acclaimed as the NES, they had better visual fidelity.
+
+
+
+\bibliographystyle{ieeetran}
 \bibliography{game-platform-history-references}
 
+
+
+
+
 \end{document}
+

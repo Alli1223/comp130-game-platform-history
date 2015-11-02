@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2015.10.22)  2 NOV 2015 05:58
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2015.10.22)  22 OCT 2015 20:18
+>>>>>>> origin/master
 entering extended mode
 **"C:/Users/Alastair/Desktop/Uni Work/comp130-game-platform-history/game-platfo
 rm-history-references.bib"
@@ -31,6 +35,7 @@ Overfull \hbox (8.95444pt too wide) in paragraph at lines 17--26
 .\tenrm i
 .etc.
 
+<<<<<<< HEAD
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
@@ -60,6 +65,22 @@ ming-Origins-Segascope-3d-For-|
 .\glue 3.33333 plus 1.66666 minus 1.11111
 .etc.
 
+=======
+
+Overfull \hbox (52.06557pt too wide) in paragraph at lines 51--58
+\tenrm fer-ent, au-thor=Robert Work-man, pub-lish-er-PRIMAGames, year2014, url=
+http://www.primagames.com/games/killzone-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm f
+.\tenrm e
+.\tenrm r
+.\discretionary
+..\tenrm -
+.\tenrm e
+.etc.
+
+>>>>>>> origin/master
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
